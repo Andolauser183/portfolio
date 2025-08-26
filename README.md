@@ -12,7 +12,7 @@ A modern, neon-glow themed portfolio showcasing development skills across JavaSc
 
 ### Frontend
 
-```
+```bash
 cd frontend
 npm install
 npm start
@@ -27,7 +27,7 @@ CONTACT_PASS=your_app_password
 ```
 
 Then run:
-```
+```bash
 cd backend
 npm install
 npm start
